@@ -58,9 +58,9 @@ These findings are descriptive and do not establish that customer purchase frequ
 - Communicating findings for business stakeholders
 
 ## Project Files
-- Power BI report (`.pbix`) — to be added
-- Dashboard screenshots — to be added
-
+- Power BI report: `OLIST_Ecommerce_Sales_Analytics.pbix`
+- Dashboard preview:`executive-overview.png`
+  
 ## Data Source
 The project uses the Brazilian e-commerce dataset commonly known as the Olist dataset. The data covers orders purchased between September 2016 and October 2018.
 
