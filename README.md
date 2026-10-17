@@ -4,6 +4,9 @@ Brazilian e-commerce sales, customer behaviour, and product performance analysis
 
 ## Project Overview
 This project uses Power BI to analyse Brazilian e-commerce data from September 2016 to October 2018. The goal is to explore sales performance, customer purchasing behaviour, product category performance, and geographic revenue distribution through an interactive business intelligence dashboard.
+## Dashboard Preview
+
+![OLIST Executive Overview](executive-overview.png)
 
 ## Business Objectives
 - Monitor key sales performance indicators.
