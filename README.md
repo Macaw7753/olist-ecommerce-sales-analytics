@@ -29,6 +29,22 @@ This project uses Power BI to analyse Brazilian e-commerce data from September 2
 
 *Revenue is calculated from product-item prices and excludes freight charges. KPI values are rounded as displayed in the dashboard.*
 
+## Data Validation & Quality Checks
+
+The report was reviewed to improve the consistency and reliability of its analytical outputs.
+
+Validation checks included:
+
+- Revenue calculation:** Confirmed that total revenue is calculated from order-item prices, excluding freight.
+- Order counting:** Used distinct order IDs to avoid counting an order multiple times when it contains multiple items.
+- Average order value:** Calculated as total product revenue divided by total orders.
+- Customer counting:** Used distinct customer identifiers for customer counts.
+- Customer segmentation:** Reviewed the customer order-frequency categories used to distinguish one-time, repeat, and loyal customers.
+- Data model:** Reviewed table relationships and their role in filtering report calculations.
+- Dashboard consistency:** Checked the displayed KPIs and analytical visuals for consistency with the intended metric definitions.
+
+These checks support the interpretation of the dashboard's descriptive findings. The analysis identifies patterns in historical e-commerce transactions and does not establish causal relationships or predict future performance.
+
 ## Dashboard Pages
 
 ### 1. Executive Overview
