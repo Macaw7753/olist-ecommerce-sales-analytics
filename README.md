@@ -16,10 +16,10 @@ This project uses Power BI to analyse Brazilian e-commerce data from September 2
 - Translate transactional data into insights that support business decision-making.
 
 ## Tools & Technologies
-- **Power BI Desktop** — dashboard development and data visualisation
-- **Power Query** — data preparation and transformation
-- **DAX** — measures and business calculations
-- **Data modelling** — relationships between customer, order, and product tables
+- Power BI Desktop** — dashboard development and data visualisation
+- Power Query** — data preparation and transformation
+- DAX** — measures and business calculations
+- Data modelling** — relationships between customer, order, and product tables
 
 ## Key Performance Indicators
 - Total Revenue: approximately R$13.59 million
